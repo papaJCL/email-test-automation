@@ -34,6 +34,6 @@ class InboxPage:
         pass
 
     def is_email_present(self, subject):
-        # Check if an email with the given subject exists in the inbox
+        # Check if an email with the given subject exists in inbox
         # Returns True or False
         pass

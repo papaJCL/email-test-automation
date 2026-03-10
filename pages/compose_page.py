@@ -30,7 +30,7 @@ class ComposePage:
         pass
 
     def click_send(self):
-        # Click the send button to send the email
+        # Click the send button to send email
         pass
 
     def get_error_message(self):

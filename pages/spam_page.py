@@ -19,7 +19,7 @@ class SpamPage:
 
     def is_email_present(self, subject):
         # Check if an email with the given subject exists in spam
-        # Returns True or False
+        # Returns True/False
         pass
 
     def unmark_as_spam(self, subject):
